@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Montlivi");
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, Montlivi");
+        Console.WriteLine("Tu quieres ney");
+    }
+}
